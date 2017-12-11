@@ -1,0 +1,1 @@
+{"request":{"method":"GET","url":"abcer","headers":[{"title":"Mr."}],"queryParameters":[{"color":"brown"}],"Authorization":[{"tie":"red"}]},"response":{"status":"200","body":"as","headers":{"Content-Type":"application/json"}}}
